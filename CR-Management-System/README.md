@@ -10,12 +10,13 @@ A system designed to manage change requests between clients and development team
 ## Responsibilities
 - Requirement gathering
 - Workflow analysis
-- Use Case documentation
+- User Story documentation
+- Created Agenda, MOM
 - Database design
 - Stakeholder communication
 
 ## Artifacts
 - User Story
-- State Diagram
+- Diagram
 - ERD
 - Requirement Documents
